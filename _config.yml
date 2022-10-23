@@ -31,6 +31,8 @@ github_username:
 theme: jekyll-theme-basically-basic
 plugins:
   - jekyll-feed
+#Incremental regeneration. Comment below line in case something is not working
+incremental: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
