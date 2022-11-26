@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: A walk through woods by Bill Bryson
+date: '2022-10-22 20:17:47 -0400'
+categories: null
+published: true
 ---
 ## A walk in woods
 
