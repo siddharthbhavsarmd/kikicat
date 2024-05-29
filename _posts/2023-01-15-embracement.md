@@ -1,6 +1,3 @@
----
-published: true
----
 ## Embracement !! 
 
 I just used this as a silly word play between embrace and embarrass.
